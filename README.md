@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-**AndrewPerotti/AndrewPerotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hello gitHub world, my name's Andrew Perotti, I'm a software engineer at 100Devs agency, where I'm working on web development.
 
 - 🔭 I’m currently working on: 100devs course and my portfolio
-- 🌱 I’m currently learning: Javascript
+- 🌱 I’m currently learning: Javascript and GitHub
 - 👯 I’m looking to collaborate on: Anything that I can learn from or be helpful to
 - 📫 How to reach me: ... Perotti28@gmail.com
-- ⚡ Other tech interests: I love to play path of exile, which is a free to play ARPG, for which I have also worked on some projects on previously in Python for which I was learning before I moved to web development.
-- Other than AndrewPerotti I also go by Drevvska on most social and gaming platforms, or anything that AndrewPerotti was taken.
+- When I'm not studying/working: You can find me at a sporting event, working out, or playing Path of Exile a free to play ARPG which I've enjoyed for over a decade and previously made my own projects using Python.
+- Other names I go by: When AndrewPerotti is taken or other reasons I use Drevvska (games, twitch, reddit, etc)
