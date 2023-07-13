@@ -8,3 +8,4 @@
 - 👯 I’m looking to collaborate on: Anything that I can learn from or be helpful to
 - 📫 How to reach me: ... Perotti28@gmail.com
 - ⚡ Other tech interests: I love to play path of exile, which is a free to play ARPG, for which I have also worked on some projects on previously in Python for which I was learning before I moved to web development.
+- Other than AndrewPerotti I also go by Drevvska on most social and gaming platforms, or anything that AndrewPerotti was taken.
