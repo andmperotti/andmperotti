@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello gitHub world, my name's Andrew Perotti, I'm a software engineer at 100Devs agency, where I'm working on web development.
+Hello gitHub world, my name's Andrew Perotti.
 
 - 🔭 I’m currently working on: [The Odin Project](https://theodinproject.com/)
 - 👯 I’m looking to collaborate on: Anything that I can learn from or be helpful to
